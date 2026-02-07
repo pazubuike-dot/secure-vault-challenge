@@ -1,5 +1,6 @@
 # secure-vault-challenge
 Secure Vault Project Files:
+
 vault_setup.sh: Initializes the vault
 
 vault_permissions.sh: Secures the files
